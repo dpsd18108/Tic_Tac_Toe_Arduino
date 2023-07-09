@@ -3,7 +3,7 @@
 ### First and Last Name: Faidra Damianou, Marina Kyriakou, Manos Striligkas
 ### University Registration Number: DPSD19028 DPSD18059 DPSD18108 
 
-### GitHub Personal Profile: https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment
+
 
 # Introduction
 
@@ -11,62 +11,62 @@
 
 
 # 1st Deliverable
-Brief : Δημιουργία παιχνιδιού ψυχαγωγίας για παιδιά ηλικιών από 7-12 ετών.Το παιχνίδι έχει ως στόχο ο χρήστης να τοποθετήσει πρώτος από τον αντίπαλό του 3 ίδια κομμάτια με μια συνεχόμενη αλληλουχία θέσεων.   
+Brief : Creating an entertainment game for children aged 7-12 years old.The game aims for the user to place 3 identical pieces in a consecutive sequence of positions before his opponent.   
 
 People : 
 <ul>
-<li>Ηλικία :7-12 ετών</li>
-<li>Όλο το εύρος κιλών και ύψους </li>
+<li>Age :7-12 years old</li>
+<li>Full range of weights and heights </li>
 <li>Novice user </li>
-<li>Χωρίς ειδικές ανάγκες</li>
-<li>Ετερογενές μείγμα λόγω διαφορετικότητας των ατόμων σε σχέση με χαρακτηριστικά σώματος και χαρακτήρα , με ομοιογένεια στο ηλικιακό εύρος και στην σχολική τους θητεία. </li>
-<li>Διακριτικοί χρήστες το χρησιμοποιούν ανά στιγμές σε καταστάσεις παιχνιδιού και αλληλεπίδρασης με άλλο ένα άτομο.</li>
-<li>Infrequent χρήστες , καθώς πρόκειται για παιχνίδι και όχι κάποια καθημερινή ανάγκη των ατόμων.</li>
+<li>Without special needs</li>
+<li>Heterogeneous mix due to diversity of individuals in terms of body and character characteristics , with homogeneity in age range and school tenure. </li>
+<li>Discreet users use it at times in play and interaction situations with another person.</li>
+<li>Infrequent users , as it is a game and not a daily need of individuals.</li>
 </ul>
 
 Activity :  
 <ul>
-<li>Σπάνια χρήση</li>
-<li>Παιχνίδι χαλάρωσης με μικρού μήκους διάρκεια(1- 5 λεπτά) καθώς είναι παιχνίδι χωρίς ιδιαίτερη δυσκολία επίτευξης του στόχου</li>
-<li>Επίπεδο δυσκολίας λειτουργικότητας : Εύκολο </li>
-<li>Συνεχές - continuous </li>
-<li>2 αντίπαλοι παίκτες (χωρίς συνεργασία)</li>
-<li>Απλή διεργασία εντολών</li>
-<li>Response time : άμεσο </li>
-<li>Ασφαλής σχεδιασμός για παιδιά - Μη safety critical καθώς τα παιδιά είναι ηλικίας που υπάρχει μια πρώιμη ωρίμανση χωρίς να υπάρχει κίνδυνος να καταπιούν κάποιο κομμάτι.</li>
-<li>Serial task- δεν συμπεριλαμβάνονται παράλληλα άλλες δραστηριότητες </li>
-<li>Active - οι χρήστες ενεργούν για την συνέχεια του </li>
+<li>Rare use</li>
+<li>Relaxation game with short duration (1- 5 minutes) as it is a game without any particular difficulty to achieve the goal</li>
+<li>Functional difficulty level : Easy </li>
+<li>Continuous</li>
+<li>2 opposing players (no cooperation)</li>
+<li>Simple command process</li>
+<li>Response time : directly </li>
+<li>Safe design for children - Not safety critical as children are of an age where there is an early maturation without the risk of swallowing a piece.</li>
+<li>Serial task - no other activities are included in parallel </li>
+<li>Active - users act on the continuation of the </li>
 <li>Quantity > Quality </li>
-<li>Input requirements: αφή </li>
-<li>Δεν θα έχει error signs.</li>
+<li>Input requirements: touch</li>
+<li>There will not appear error signs.</li>
 </ul>
 
 Context :
 <ul>
-<li>Organisational: Δεν επηρεάζει οργανωσιακά τα άτομα</li>
-<li>Physical: εσωτερικά - λόγω της τεχνολογίας που χρησιμοποιείται </li>
-<li>Social environment: μέρος λειτουργίας το σπίτι</li>
-<li>Circumstance: Απασχόληση του παιχνιδιού σε καταστάσεις ψυχαγωγίας ή χαλάρωσης στο σπίτι.</li>
-<li>New knowledge: Κατανόηση τρόπου παιχνιδιού από τα άτομα που το παίζουν.</li>
+<li>Organisational: Does not affect individuals organizationally</li>
+<li>Physical: internally - because of the technology used </li>
+<li>Social environment: operation part the house</li>
+<li>Circumstance: Employment of play in entertainment or relaxation situations at home.</li>
+<li>New knowledge: Understanding of game play by the people playing it.</li>
 </ul>
 
 Technology : 
 <ul>
-<li>Input : Επιλογή εντολών μέσω αφής. </li>
-<li>Output: Φωτεινές ενδείξεις με εναλλαγή χρωμάτων</li>
-<li>Communication : Δεν υπάρχει επικοινωνία μεταξύ συσκευών.</li>
-<li>Content: Κατανόηση δύο σχημάτων και επιτυχία μέσω της συνεχής σειράς τριών φορών του ίδιου σχήματος.</li>
-<li>Τεχνολογίες: Αισθητήρας φωτός , αισθητήρας αφής , χωρίς λειτουργία δικτύου.</li>
+<li>Input : Select commands by touch. </li>
+<li>Output: Colour-changing lights</li>
+<li>Communication : There is no communication between devices.</li>
+<li>Content: Understanding two shapes and success through the continuous series of three times of the same shape.</li>
+<li>Τεχνολογίες: Light sensor , touch sensor , without network function.</li>
 </ul>
 
 # 2nd Deliverable
 <ul>
 Step 3)
-<li>Context : Ψυχαγωγία των χρηστών , παιχνίδι για δύο </li>
+<li>Context : Entertainment of users , game for two </li>
 
-<li>Content : παιχνίδι για δύο , data types: constraint X kai O , Constraint Παίχτης 1 kai Παίχτης 2 .  Έξοδος Παίξτε ξανά after πλήρες γέμισμα </li>
+<li>Content : Game for two , data types: constraint X kai O , Constraint Player 1 kai Player 2 . Exit Play again after full fill </li>
 
-<li>Users: Εργασίες: Ο καθε χρηστης βαζει εναλλαξ το Χ/Ο σε μια απο τις 9 θέσεις του πίνακα. Σκοπός είναι να δημιουργηθει μια διαδοχική τριάδα απο Χ/Ο.</li>
+<li>Users: Tasks: Each user alternately places the X/O in one of the 9 positions on the board. The aim is to create a sequential triad of X/Os.</li>
   <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/Untitled.png"> 
 
 </ul>
@@ -74,7 +74,7 @@ Step 3)
 
 <ul>
 Step 4)
-<li>Στο τεχνούργημα μας το οποίο είναι μία τρίλιζα , στην δικιά μας περίπτωση ο χρήστης θα μετακινεί συγκεκριμένα τουβλάκια επάνω στους αισθητήρες φωτός που στην ουσία θα αντικαθιστούν τους Ο και τα Χ στην σειρά που επιθυμεί ο χρήστης έτσι ώστε να σχηματίσει την σειρά από τρία όμοια σύμβολα. Μοιάζει ενδεχομένως με τον physical τρόπο που παίζεται η τρίλιζα. Ακόμα, θα υπάρχει οθόνη μικρού μεγέθους όπου θα αναγράφεται το ποιος παίχτης παίζει κάθε φορά.</li>
+<li>In our artifact which is a trilithium , in our case the user will move specific blocks onto the light sensors that will essentially replace the O's and X's in the order the user wants so as to form the row of three identical symbols. It possibly resembles the physical way in which the tic-tac-toe game is played. Still, there will be a small screen where it will be indicated which player is playing at any given time.</li>
 </ul>
 
 <ul>
@@ -87,8 +87,8 @@ Step 4)
 # 3rd Deliverable 
 <ul>
   Step 6)
-  <li>Η τελική μας έμπνευση για το project https://www.youtube.com/watch?v=vXuttFxP_to</li>
-  <li>Σενάρια χρήσης/ Περιπτώσεις παιξίματος credit: educ8s.tv on yt</li>
+  <li>Our final inspiration for the project https://www.youtube.com/watch?v=vXuttFxP_to</li>
+  <li>Usage scenarios / Playing cases credit: educ8s.tv on yt</li>
   <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/easy%20mode.png">
   <img src="https://github.com/FaidraDamianou/Interaction-Design-Project-Assignment/blob/main/our_report/hard%20mode.png">
   
